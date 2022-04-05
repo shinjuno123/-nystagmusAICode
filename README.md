@@ -8,3 +8,4 @@ and the most of the symptoms are "shaking eyes"
 - y is only 1 output so the numpy structure will be (N, 3)
 - I'm supposed to train the data and check up the result score to train the real data of "nystagmus" afterwards
 - so far so good
+- the plan has been changed. our plan was making connnected layer of 2 inputs but we decided to make just separte 2 models - 2022.04.06
